@@ -25,7 +25,7 @@ This project effectively stores the data of different resources on the blockchai
 
 # <img src="https://www.pinclipart.com/picdir/big/352-3523258_implementation-icon-implementation-mechanism-vector-clipart.png" width="40" height="32"> How Dapp Works?
 We will access our blockchain application with a special web browser that talks to a front-end website written in HTML, CSS, and JavaScript. Instead of talking to a backend web server, this website will talk directly to the blockchain. The blockchain will essentially be our backend, hosting all of the code and data for our decentralized Resource Management System.
-### Working of our application
+### ⚙ Working of our application
 The block diagram above represents the correct working of the model in that first it will take input from the Resource manager regarding all the data of the Resources which are being received and once the data is saved on the blockchain network and once it is stored on the blockchain network no one can modify that data since it is on the blockchain network.
 
 
@@ -35,7 +35,7 @@ Data is stored on the blockchain network
 Once the Resource Details are inserted then no one can modify them.
 Safe and secure on the Blockchain Network
 
-### How is the proposed solution is Related to sustainable development?
+### 🌈 How is the proposed solution is Related to sustainable development?
 
 Through our proposed solution we can remove all kinds of corruption or manipulations in data which has been happening till date by editing those databases and once everything is going according to the actual plans there will be very less chances that Natural resources are misused or are stored and sold in the black market 
 
