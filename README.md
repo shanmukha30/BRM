@@ -1,6 +1,4 @@
-# Sansadhan
-Resource Management System using Blockchain
-### 📄 ABSTRACT
+### <img src="https://cdn.iconscout.com/icon/free/png-256/idea-1618744-1372450.png" width="32" height="32"> ABSTRACT
 Blockchain has the ability to keep an incorruptible, decentralized, and transparent 
 log of all Natural Resource data makes it a technology rife for security applications. 
 Additionally, while blockchain is transparent it is also private, concealing the identity 
@@ -13,7 +11,7 @@ This project effectively stores the data of different resources on the blockchai
 
 ### BLOCK DIAGRAM
 
-![image](https://user-images.githubusercontent.com/76255028/143670068-42154be5-a229-482e-8e2b-f3fe41c2e4a4.png)
+<img src="https://user-images.githubusercontent.com/76255028/143670068-42154be5-a229-482e-8e2b-f3fe41c2e4a4.png" width="350" height="325">
 
 
 ### 📚 Tech Stack
